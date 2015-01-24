@@ -1,3 +1,15 @@
 p {
   color: rgb(63, 191, 63);
 }
+
+.section-title, h2 {
+  color: blue;
+}
+
+.biography {
+  color: blue;
+}
+
+.header-name {
+  color: red;
+}
