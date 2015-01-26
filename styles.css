@@ -11,8 +11,7 @@ body {
 }
 
 img {
-  top: 50%;
-  left: 50%;
+  margin-left: 500px;
 }
 
 .header-name {
@@ -21,25 +20,27 @@ img {
   text-align: center;
 }
 
-.section-title {
+/*.section-title {
   color: darkslategray;
   font-family: 'Playfair Display', serif;
-}
+}*/
 
 h3 {
   font-family: 'Lato', sans-serif;
   color: midnightblue;
 }
 
-.biography p, .resume li {
+.biography p, .work li {
   color: black;
   font-family: 'Poiret One', cursive;
   font-size: 75%;
 }
 
-.biography, .resume, .section-title {
+.biography, .work, .section-title {
   margin-left: 20px;
 }
+
+
 .contact {
   text-align: center;
   font-family: 'Playfair Display', serif;
