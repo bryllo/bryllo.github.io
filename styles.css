@@ -11,7 +11,6 @@ body {
 }
 
 img {
-  position: fixed;
   top: 50%;
   left: 50%;
 }
@@ -24,7 +23,7 @@ img {
 
 .section-title {
   color: darkslategray;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Playfair Display', serif;
 }
 
 h3 {
@@ -38,6 +37,9 @@ h3 {
   font-size: 75%;
 }
 
+.biography, .resume, .section-title {
+  margin-left: 20px;
+}
 .contact {
   text-align: center;
   font-family: 'Playfair Display', serif;
