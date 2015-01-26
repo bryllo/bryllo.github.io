@@ -1,7 +1,7 @@
 body {
-  margin: 50px 0px;
+  margin: 70px 0px;
   padding: 0px;
-  background-color: lavenderblush;
+  background-color: deepskyblue;
 }
 
 #content {
@@ -10,15 +10,19 @@ body {
   height: fixed;
 }
 
-img {
+/*img {
   margin-left: 200px;
   margin-right: 200px;
-}
+}*/
 
 .header-name {
   color: lightseagreen;
   font-family: 'Playfair Display', serif;
   text-align: center;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
 }
 
 .section-title {
