@@ -1,7 +1,7 @@
 body {
   margin: 70px 0px;
   padding: 0px;
-  background-color: deepskyblue;
+  background-color: lightskyblue;
 }
 
 #content {
@@ -19,10 +19,6 @@ body {
   color: lightseagreen;
   font-family: 'Playfair Display', serif;
   text-align: center;
-}
-
-h2 {
-  font-family: 'Lato', sans-serif;
 }
 
 .section-title {
@@ -43,6 +39,11 @@ h3 {
 
 .contact {
   text-align: center;
-  text-decoration: none;
   font-family: 'Playfair Display', serif;
+}
+
+.contact a {
+  text-decoration: none;
+  color: lightseagreen;
+  font-size: 80%;
 }
