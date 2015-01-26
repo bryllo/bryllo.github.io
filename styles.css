@@ -15,7 +15,7 @@ body {
 }*/
 
 .header-name {
-  color: lightseagreen;
+  color: mediumturquoise;
   font-family: 'Playfair Display', serif;
   text-align: center;
 }
@@ -32,7 +32,7 @@ h3 {
 
 .biography p, .work li {
   color: black;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Handlee', cursive;
   font-size: 75%;
 }
 
@@ -48,6 +48,6 @@ h3 {
 
 .contact a {
   text-decoration: none;
-  font-color: lightseagreen;
+  color: mediumturquoise;
   font-size: 80%;
 }
