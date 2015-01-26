@@ -1,42 +1,39 @@
 body {
   margin: 50px 0px;
   padding: 0px;
-  background-color: white;
+  background-color: lavenderblush;
 }
 
 #content {
-  background-color: lavenderblush;
+  background-color: white;
   margin: auto;
   height: fixed;
 }
 
 img {
-  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .header-name {
   color: lightseagreen;
   font-family: 'Playfair Display', serif;
   text-align: center;
-  margin: 50px;
 }
 
-h2, .section-title {
+.section-title {
   color: darkslategray;
   font-family: 'Lato', sans-serif;
-  margin: 50px;
 }
 
 h3 {
   font-family: 'Lato', sans-serif;
   color: midnightblue;
-  margin: 50px;
 }
 
 .biography p, .resume li {
   color: black;
   font-family: 'Poiret One', cursive;
-  margin: 50px;
   font-size: 75%;
 }
 
