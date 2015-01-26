@@ -1,34 +1,40 @@
 body {
   margin: 50px 0px;
   padding: 0px;
-  background-color: black;
+  background-color: white;
 }
 
 #content {
-  background-color: gainsboro;
+  background-color: lavenderblush;
+  margin: auto;
 }
 
 img {
-
+  float: left;
 }
 
 .header-name {
   color: lightseagreen;
   font-family: 'Playfair Display', serif;
+  text-align: center;
+  margin: 50px;
 }
 
 h2, .section-title {
   color: darkslategray;
   font-family: 'Lato', sans-serif;
+  margin: 50px;
 }
 
 h3 {
   font-family: 'Lato', sans-serif;
-  color: blue;
+  color: midnightblue;
+  margin: 50px;
 }
 
-.biography p, .resume p {
+.biography p, .resume li {
   color: black;
   font-family: 'Poiret One', cursive;
+  margin: 50px;
 }
 
