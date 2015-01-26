@@ -10,10 +10,13 @@ body {
   height: fixed;
 }
 
-/*img {
-  margin-left: 200px;
-  margin-right: 200px;
-}*/
+img {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
 
 .header-name {
   color: lightseagreen;
@@ -23,7 +26,7 @@ body {
 
 .section-title {
   color: darkslategray;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Poiret One', cursive;
 }
 
 h3 {
@@ -44,6 +47,6 @@ h3 {
 
 .contact a {
   text-decoration: none;
-  color: lightseagreen;
+  font-color: lightseagreen;
   font-size: 80%;
 }
