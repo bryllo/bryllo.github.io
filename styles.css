@@ -7,10 +7,11 @@ body {
 #content {
   background-color: lavenderblush;
   margin: auto;
+  height: fixed;
 }
 
 img {
-  float: left;
+  text-align: center;
 }
 
 .header-name {
@@ -36,5 +37,11 @@ h3 {
   color: black;
   font-family: 'Poiret One', cursive;
   margin: 50px;
+  font-size: 75%;
 }
 
+.contact {
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Playfair Display', serif;
+}
