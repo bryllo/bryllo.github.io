@@ -1,0 +1,45 @@
+body {
+  width: 80%;
+  background-color: lavenderbush;
+  border-width: 2em;
+  border-color: black;
+}
+
+.top p {
+  font-family: Arial, times, georgia;
+  font-style: italic;
+  font-size: 60%;
+}
+
+h1 {
+  font-family: Arial;
+  font-weight: bold;
+  text-decoration: underline;
+  color: lightseagreen;
+}
+
+.middle p {
+  font-family: Arial, times, georgia;
+  font-style: italic;
+  font-size: 60%;
+}
+
+h2 {
+  font-family: Arial;
+  font-weight: bold;
+  text-decoration: none;
+  color: indigo;
+}
+
+.bottom p {
+  font-family: Arial, times, georgia;
+  font-style: italic;
+  font-size: 60%;
+}
+
+ h3 {
+  font-family: Arial;
+  font-weight: bold;
+  text-decoration: none;
+  color: green;
+ }
