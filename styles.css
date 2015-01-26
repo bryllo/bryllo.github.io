@@ -10,9 +10,9 @@ body {
   height: fixed;
 }
 
-img {
-  margin-left: 500px;
-}
+/*img {
+  margin-left: 200px;
+}*/
 
 .header-name {
   color: lightseagreen;
