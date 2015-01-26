@@ -8,10 +8,10 @@ body {
 .top p {
   font-family: Arial, times, georgia;
   font-style: italic;
-  /*font-size: 60%;*/
+  font-size: 60%;
   line-height: 2;
   text-indent: 1.5em;
-  white-space: nowrap;
+  white-space: pre;
 }
 
 h1 {
