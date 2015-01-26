@@ -8,10 +8,8 @@ body {
 .top p {
   font-family: Arial, times, georgia;
   font-style: italic;
-  font-size: 60%;
-  line-height: 2;
+  font-size: 85%;
   text-indent: 1.5em;
-  white-space: pre;
 }
 
 h1 {
@@ -24,7 +22,8 @@ h1 {
 .middle p {
   font-family: Arial, times, georgia;
   font-style: italic;
-  font-size: 60%;
+  font-size: 85%;
+  text-indent: 1.5em;
 }
 
 h2 {
@@ -36,8 +35,8 @@ h2 {
 
 .bottom p {
   font-family: Arial, times, georgia;
-  font-style: italic;
-  font-size: 60%;
+  font-size: 85%;
+  text-indent: 1.5em;
 }
 
  h3 {
