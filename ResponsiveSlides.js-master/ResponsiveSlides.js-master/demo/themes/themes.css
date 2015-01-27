@@ -1,85 +1,8 @@
-body {
-  margin: 70px 0px;
-  padding: 0px;
-  background-color: lightseagreen;
-}
-
-#content {
-  background-color: white;
-  margin: auto;
-  height: absolute;
-  /*width: 100%; */
-}
-
-.header-image {
-  padding-left: 10px;
-  padding-top:10px;
-  float: left;
-}
-
-.header-name {
-  color: mediumturquoise;
-  font-family: 'Playfair Display', serif;
-  text-align: center;
-  margin-bottom: 5px;
-}
-
-h3, .section-title {
-  font-family: 'Overlock', cursive;
-  color: teal;
-}
-
-.biography p, .work li {
-  color: limegreen;
-  text-align: center;
-  font-family: 'Handlee', cursive;
-  font-size: 100%;
-}
-
-.biography, .work, .section-title {
-  margin-left: 20px;
-}
-
-
-.contact {
-  text-align: center;
-  font-family: 'Playfair Display', serif;
-  margin-top: 35%;
-}
-
-.contact a {
-  text-decoration: none;
-  color: mediumturquoise;
-  font-size: 80%;
-  padding-right: 330px;
-  padding-left: 330px;
-  margin-top: 10px;
-}
-
-.social {
-  text-align: center;
-}
-
-.work li a {
-  text-decoration: none;
-  color: springgreen;
-  font-size: 150%;
-  margin-left: 70px;*/
-  padding: 25px;
-}
-
-.work li {
-  list-style: none;
-  display: inline;
-}
-
-/*slideshow */
-
 
 #wrapper {
   /*float: left;*/
-  width: 70%;
-  margin-bottom: 50px;
+  width: 100%;
+  /*margin-bottom: 50px;*/
   }
 
 
@@ -88,11 +11,10 @@ h3, .section-title {
   }
 
 .rslides_container {
-  margin-bottom: 40px;
-  margin-left: 40%;
+  margin-bottom: 50px;
   position: relative;
   float: left;
-  width: 70%;
+  width: 100%;
   }
 
 .transparent-btns_nav {
@@ -160,4 +82,3 @@ h3, .section-title {
   background: #222;
   background: rgba(0,0,0, .8);
   }
-
